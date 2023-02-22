@@ -1330,6 +1330,7 @@
 | [Troopl](https://troopl.com) | Build and publish a free portfolio in minutes. |
 | [Apifox](https://apifox.cn) | Apifox = Postman + Swagger + Mock + JMeter |
 | [A Modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/) | Resets the css styling of all HTML elements to a consistent baseline across browsers.
+| [stackedit](https://stackedit.io) | StackEdit Editor + md File Creator |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
